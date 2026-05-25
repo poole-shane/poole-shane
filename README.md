@@ -1,4 +1,4 @@
-- 👋 I like chicken waffles.
+- 👋 冷静に熱くなれ！
 
 <!---
 poole-shane/poole-shane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
